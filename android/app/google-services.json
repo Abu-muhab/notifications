@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607804161758",
+    "firebase_url": "https://notifications-8ef4a.firebaseio.com",
+    "project_id": "notifications-8ef4a",
+    "storage_bucket": "notifications-8ef4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607804161758:android:3e83eb918336d7995c8c4f",
+        "android_client_info": {
+          "package_name": "com.gostcorp.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607804161758-g4nnvcekt4rk5lh4raqf7lmdeqri9q0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAappPeC4Cz4EhRgyZ5KmKleIltiI_UW60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607804161758-g4nnvcekt4rk5lh4raqf7lmdeqri9q0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
